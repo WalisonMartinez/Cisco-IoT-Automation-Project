@@ -8,7 +8,7 @@ El objetivo principal fue aislar el tráfico de los dispositivos de la familia d
 ##  Estructura del Repositorio
 * `/network_design`: Contiene el archivo `.pkt` (Cisco Packet Tracer) con la topología lógica.
 * `/automation_tools`: Script `.py` de monitoreo de disponibilidad.
-* `/assets/images`: Evidencia técnica del funcionamiento.
+* `/assets/img`: Evidencia técnica del funcionamiento.
 
 ##  Guía de Evidencia Técnica
 He documentado el proceso con capturas de pantalla para validar cada etapa de la implementación:
